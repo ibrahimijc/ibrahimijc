@@ -15,6 +15,6 @@
 * Created a platform for Amazon sellers using the MWS API, allowing them to manage their listings, orders, and fulfillment on the Amazon marketplace.
 * Implemented multiple REST APIs for Dealer Management System using .NET Core and doing integration with third party libraries.
 
-## Eductaion
+## Education
 * Master's Degree in Computer Science from IBA.
 * Bachelor's Degree in Computer Science from FAST.
